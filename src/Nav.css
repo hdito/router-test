@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: hsl(200, 100%, 20%);
+    padding: 5vmin;
+    font-size: 5vmin;
+    font-weight: 900;
+    font-family:  Helvetica, sans-serif;
+    color: white;
+}
